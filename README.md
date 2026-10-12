@@ -183,4 +183,4 @@ Avoid: <负向约束>
 
 ## 许可
 
-本目录下的 `LICENSE.txt` 为 **Apache License 2.0**。分发或再发布时请保留该文件及原始版权声明——这是 Apache-2.0 的强制要求，不要为了「干净」把它删掉。
+本目录下的 `LICENSE.txt` 为 **Apache License 2.0**。分发或再发布时请保留该文件及原始版权声明——这是 Apache-2.0 的强制要求
